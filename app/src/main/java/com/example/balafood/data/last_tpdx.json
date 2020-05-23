@@ -1,0 +1,1130 @@
+{
+    "Rau muống": {
+        "Thực phẩm (100g)": "Rau muống",
+        "Carb (g)": 3.5,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 3,
+        "Calo / Kcal": 30
+    },
+    "Rau mồng tơi": {
+        "Thực phẩm (100g)": "Rau mồng tơi",
+        "Carb (g)": 4,
+        "Xơ (g)": 2.5,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 14
+    },
+    "Rau đay": {
+        "Thực phẩm (100g)": "Rau đay",
+        "Carb (g)": 5,
+        "Xơ (g)": 1.5,
+        "Fat (g)": 0,
+        "Protein (g)": 2.8,
+        "Calo / Kcal": 25
+    },
+    "Rau ngót": {
+        "Thực phẩm (100g)": "Rau ngót",
+        "Carb (g)": 6,
+        "Xơ (g)": 2.5,
+        "Fat (g)": 0,
+        "Protein (g)": 5.3,
+        "Calo / Kcal": 36
+    },
+    "Rau húng": {
+        "Thực phẩm (100g)": "Rau húng",
+        "Carb (g)": 5.5,
+        "Xơ (g)": 3.5,
+        "Fat (g)": 0,
+        "Protein (g)": 2.2,
+        "Calo / Kcal": 18
+    },
+    "Rau bí": {
+        "Thực phẩm (100g)": "Rau bí",
+        "Carb (g)": 3.5,
+        "Xơ (g)": 1.7,
+        "Fat (g)": 0,
+        "Protein (g)": 2.7,
+        "Calo / Kcal": 18
+    },
+    "Húng quế": {
+        "Thực phẩm (100g)": "Húng quế",
+        "Carb (g)": 3,
+        "Xơ (g)": 2,
+        "Fat (g)": 1,
+        "Protein (g)": 3,
+        "Calo / Kcal": 23
+    },
+    "Rau kinh giới": {
+        "Thực phẩm (100g)": "Rau kinh giới",
+        "Carb (g)": 6.5,
+        "Xơ (g)": 3.5,
+        "Fat (g)": 0,
+        "Protein (g)": 2.7,
+        "Calo / Kcal": 23
+    },
+    "Rau khoai lang": {
+        "Thực phẩm (100g)": "Rau khoai lang",
+        "Carb (g)": 4,
+        "Xơ (g)": 1.5,
+        "Fat (g)": 0,
+        "Protein (g)": 2.6,
+        "Calo / Kcal": 22
+    },
+    "Hoa chuối": {
+        "Thực phẩm (100g)": "Hoa chuối",
+        "Carb (g)": 5.5,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1.5,
+        "Calo / Kcal": 20
+    },
+    "Dọc mùng": {
+        "Thực phẩm (100g)": "Dọc mùng",
+        "Carb (g)": 3.8,
+        "Xơ (g)": 0.5,
+        "Fat (g)": 0,
+        "Protein (g)": 0.25,
+        "Calo / Kcal": 14
+    },
+    "Rau ngổ": {
+        "Thực phẩm (100g)": "Rau ngổ",
+        "Carb (g)": 4.5,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1.5,
+        "Calo / Kcal": 16
+    },
+    "Tía tô": {
+        "Thực phẩm (100g)": "Tía tô",
+        "Carb (g)": 7,
+        "Xơ (g)": 3.5,
+        "Fat (g)": 0,
+        "Protein (g)": 3,
+        "Calo / Kcal": 26
+    },
+    "Hẹ lá": {
+        "Thực phẩm (100g)": "Hẹ lá",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 16
+    },
+    "Nấm thường tươi": {
+        "Thực phẩm (100g)": "Nấm thường tươi",
+        "Carb (g)": 5.7,
+        "Xơ (g)": 3.5,
+        "Fat (g)": 0.8,
+        "Protein (g)": 4.6,
+        "Calo / Kcal": 35
+    },
+    "Giá đỗ": {
+        "Thực phẩm (100g)": "Giá đỗ",
+        "Carb (g)": 7.5,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 5.5,
+        "Calo / Kcal": 44
+    },
+    "Nấm mỡ": {
+        "Thực phẩm (100g)": "Nấm mỡ",
+        "Carb (g)": 4.5,
+        "Xơ (g)": 1.1,
+        "Fat (g)": 0.3,
+        "Protein (g)": 4,
+        "Calo / Kcal": 33
+    },
+    "Nấm hương tươi": {
+        "Thực phẩm (100g)": "Nấm hương tươi",
+        "Carb (g)": 6,
+        "Xơ (g)": 3,
+        "Fat (g)": 0.5,
+        "Protein (g)": 5.5,
+        "Calo / Kcal": 40
+    },
+    "Nấm rơm": {
+        "Thực phẩm (100g)": "Nấm rơm",
+        "Carb (g)": 4.5,
+        "Xơ (g)": 1.1,
+        "Fat (g)": 0.3,
+        "Protein (g)": 4,
+        "Calo / Kcal": 31
+    },
+    "Dưa cải bẹ": {
+        "Thực phẩm (100g)": "Dưa cải bẹ",
+        "Carb (g)": 4.5,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 27
+    },
+    "Me chua": {
+        "Thực phẩm (100g)": "Me chua",
+        "Carb (g)": 7,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 27
+    },
+    "Dưa cải bắp": {
+        "Thực phẩm (100g)": "Dưa cải bắp",
+        "Carb (g)": 5,
+        "Xơ (g)": 1.5,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 25
+    },
+    "Mướp tây/đậu bắp": {
+        "Thực phẩm (100g)": "Mướp tây/đậu bắp",
+        "Carb (g)": 7,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 31
+    },
+    "Mướp": {
+        "Thực phẩm (100g)": "Mướp",
+        "Carb (g)": 3.5,
+        "Xơ (g)": 0.5,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 16
+    },
+    "Thực phẩm (100g)": {
+        "Thực phẩm (100g)": "Thực phẩm (100g)",
+        "Carb (g)": "Carb (g)",
+        "Xơ (g)": "Xơ (g)",
+        "Fat (g)": "Fat (g)",
+        "Protein (g)": "Protein (g)",
+        "Calo / Kcal": "Calo / Kcal"
+    },
+    "Bông hẹ": {
+        "Thực phẩm (100g)": "Bông hẹ",
+        "Carb (g)": 4,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 3,
+        "Calo / Kcal": 30
+    },
+    "Măng tre": {
+        "Thực phẩm (100g)": "Măng tre",
+        "Carb (g)": 6,
+        "Xơ (g)": 4,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 14
+    },
+    "Cần tây": {
+        "Thực phẩm (100g)": "Cần tây",
+        "Carb (g)": 4,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 16
+    },
+    "Súp lơ": {
+        "Thực phẩm (100g)": "Súp lơ",
+        "Carb (g)": 5,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 25
+    },
+    "Khổ qua (lá)": {
+        "Thực phẩm (100g)": "Khổ qua (lá)",
+        "Carb (g)": 3,
+        "Xơ (g)": 0,
+        "Fat (g)": 1,
+        "Protein (g)": 5,
+        "Calo / Kcal": 30
+    },
+    "Khổ qua (quả)": {
+        "Thực phẩm (100g)": "Khổ qua (quả)",
+        "Carb (g)": 4,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 17
+    },
+    "Bí đao": {
+        "Thực phẩm (100g)": "Bí đao",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 0,
+        "Calo / Kcal": 14
+    },
+    "Cây bạc hà cay": {
+        "Thực phẩm (100g)": "Cây bạc hà cay",
+        "Carb (g)": 15,
+        "Xơ (g)": 8,
+        "Fat (g)": 1,
+        "Protein (g)": 4,
+        "Calo / Kcal": 70
+    },
+    "Cây bạc hà lục": {
+        "Thực phẩm (100g)": "Cây bạc hà lục",
+        "Carb (g)": 8,
+        "Xơ (g)": 7,
+        "Fat (g)": 1,
+        "Protein (g)": 3,
+        "Calo / Kcal": 44
+    },
+    "Đậu nành (xanh)": {
+        "Thực phẩm (100g)": "Đậu nành (xanh)",
+        "Carb (g)": 11,
+        "Xơ (g)": 4,
+        "Fat (g)": 7,
+        "Protein (g)": 13,
+        "Calo / Kcal": 147
+    },
+    "Lá rau dền": {
+        "Thực phẩm (100g)": "Lá rau dền",
+        "Carb (g)": 4,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 23
+    },
+    "Bí xanh (baby)": {
+        "Thực phẩm (100g)": "Bí xanh (baby)",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 3,
+        "Calo / Kcal": 21
+    },
+    "Bí xanh (mùa hè)": {
+        "Thực phẩm (100g)": "Bí xanh (mùa hè)",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 16
+    },
+    "Quả hồng bì": {
+        "Thực phẩm (100g)": "Quả hồng bì",
+        "Carb (g)": 10,
+        "Xơ (g)": "?",
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": "~30-40"
+    },
+    "Ngải cứu": {
+        "Thực phẩm (100g)": "Ngải cứu",
+        "Carb (g)": 8,
+        "Xơ (g)": "?",
+        "Fat (g)": 0,
+        "Protein (g)": 5,
+        "Calo / Kcal": "~50-60"
+    },
+    "Quả nhãn": {
+        "Thực phẩm (100g)": "Quả nhãn",
+        "Carb (g)": 15,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 60
+    },
+    "Quả na": {
+        "Thực phẩm (100g)": "Quả na",
+        "Carb (g)": 25,
+        "Xơ (g)": 2,
+        "Fat (g)": 1,
+        "Protein (g)": 2,
+        "Calo / Kcal": 101
+    },
+    "Rau diếp đỏ": {
+        "Thực phẩm (100g)": "Rau diếp đỏ",
+        "Carb (g)": 2,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 16
+    },
+    "Rau diếp xanh": {
+        "Thực phẩm (100g)": "Rau diếp xanh",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 0,
+        "Calo / Kcal": 15
+    },
+    "Diếp lô lô": {
+        "Thực phẩm (100g)": "Diếp lô lô",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1.5,
+        "Calo / Kcal": 12
+    },
+    "Xà lách búp Mỹ": {
+        "Thực phẩm (100g)": "Xà lách búp Mỹ",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 14
+    },
+    "Củ diếp xoắn": {
+        "Thực phẩm (100g)": "Củ diếp xoắn",
+        "Carb (g)": 18,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 73
+    },
+    "Lá diếp xoắn": {
+        "Thực phẩm (100g)": "Lá diếp xoắn",
+        "Carb (g)": 5,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 23
+    },
+    "Dưa chuột có vỏ": {
+        "Thực phẩm (100g)": "Dưa chuột có vỏ",
+        "Carb (g)": 4,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 15
+    },
+    "Dưa chuột gọt vỏ": {
+        "Thực phẩm (100g)": "Dưa chuột gọt vỏ",
+        "Carb (g)": 2,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 12
+    },
+    "Rau bina": {
+        "Thực phẩm (100g)": "Rau bina",
+        "Carb (g)": 4,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 3,
+        "Calo / Kcal": 23
+    },
+    "Rau mùi tây": {
+        "Thực phẩm (100g)": "Rau mùi tây",
+        "Carb (g)": 6,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 3,
+        "Calo / Kcal": 36
+    },
+    "Cải bắp": {
+        "Thực phẩm (100g)": "Cải bắp",
+        "Carb (g)": 6,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 25
+    },
+    "Cải thìa": {
+        "Thực phẩm (100g)": "Cải thìa",
+        "Carb (g)": 2,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 9
+    },
+    "Cải thảo": {
+        "Thực phẩm (100g)": "Cải thảo",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 16
+    },
+    "Cải cúc/rau tần ô": {
+        "Thực phẩm (100g)": "Cải cúc/rau tần ô",
+        "Carb (g)": 3,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 3,
+        "Calo / Kcal": 24
+    },
+    "Cải xoong": {
+        "Thực phẩm (100g)": "Cải xoong",
+        "Carb (g)": 1,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 11
+    },
+    "Cải xanh turnips": {
+        "Thực phẩm (100g)": "Cải xanh turnips",
+        "Carb (g)": 7,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 32
+    },
+    "Cải xoăn Kale": {
+        "Thực phẩm (100g)": "Cải xoăn Kale",
+        "Carb (g)": 10.5,
+        "Xơ (g)": 1.5,
+        "Fat (g)": 0,
+        "Protein (g)": 3,
+        "Calo / Kcal": 49
+    },
+    "Cây đại hoàng": {
+        "Thực phẩm (100g)": "Cây đại hoàng",
+        "Carb (g)": 5,
+        "Xơ (g)": 1.5,
+        "Fat (g)": 0,
+        "Protein (g)": 0.8,
+        "Calo / Kcal": 21
+    },
+    "Cà tím": {
+        "Thực phẩm (100g)": "Cà tím",
+        "Carb (g)": 6,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 24
+    },
+    "Măng tây": {
+        "Thực phẩm (100g)": "Măng tây",
+        "Carb (g)": 4,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 20
+    },
+    "Cây atiso": {
+        "Thực phẩm (100g)": "Cây atiso",
+        "Carb (g)": 11,
+        "Xơ (g)": 5,
+        "Fat (g)": 0,
+        "Protein (g)": 3,
+        "Calo / Kcal": 47
+    },
+    "Rau thì là": {
+        "Thực phẩm (100g)": "Rau thì là",
+        "Carb (g)": 7,
+        "Xơ (g)": 2,
+        "Fat (g)": 1,
+        "Protein (g)": 3,
+        "Calo / Kcal": 43
+    },
+    "Quả bơ": {
+        "Thực phẩm (100g)": "Quả bơ",
+        "Carb (g)": 9,
+        "Xơ (g)": 7,
+        "Fat (g)": 15,
+        "Protein (g)": 2,
+        "Calo / Kcal": 160
+    },
+    "Đậu cove": {
+        "Thực phẩm (100g)": "Đậu cove",
+        "Carb (g)": 7,
+        "Xơ (g)": 3.5,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 31
+    },
+    "Củ đậu": {
+        "Thực phẩm (100g)": "Củ đậu",
+        "Carb (g)": 9,
+        "Xơ (g)": 5,
+        "Fat (g)": 0,
+        "Protein (g)": 0.8,
+        "Calo / Kcal": 38
+    },
+    "Ớt xanh": {
+        "Thực phẩm (100g)": "Ớt xanh",
+        "Carb (g)": 9,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 40
+    },
+    "Ớt xanh ngọt": {
+        "Thực phẩm (100g)": "Ớt xanh ngọt",
+        "Carb (g)": 5,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 20
+    },
+    "Ớt vàng ngọt": {
+        "Thực phẩm (100g)": "Ớt vàng ngọt",
+        "Carb (g)": 6,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 27
+    },
+    "Ớt đỏ ngọt": {
+        "Thực phẩm (100g)": "Ớt đỏ ngọt",
+        "Carb (g)": 6,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 31
+    },
+    "Ớt phơi khô": {
+        "Thực phẩm (100g)": "Ớt phơi khô",
+        "Carb (g)": 70,
+        "Xơ (g)": 29,
+        "Fat (g)": 6,
+        "Protein (g)": 11,
+        "Calo / Kcal": 324
+    },
+    "Hành lá": {
+        "Thực phẩm (100g)": "Hành lá",
+        "Carb (g)": 7,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 3
+    },
+    "Củ hành": {
+        "Thực phẩm (100g)": "Củ hành",
+        "Carb (g)": 9,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 40
+    },
+    "Tỏi tây": {
+        "Thực phẩm (100g)": "Tỏi tây",
+        "Carb (g)": 14,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 61
+    },
+    "Tỏi": {
+        "Thực phẩm (100g)": "Tỏi",
+        "Carb (g)": 33,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 6,
+        "Calo / Kcal": 149
+    },
+    "Quả bí đỏ": {
+        "Thực phẩm (100g)": "Quả bí đỏ",
+        "Carb (g)": 10,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 40
+    },
+    "Quả bí ngô": {
+        "Thực phẩm (100g)": "Quả bí ngô",
+        "Carb (g)": 6,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 26
+    },
+    "Cà chua vàng": {
+        "Thực phẩm (100g)": "Cà chua vàng",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 15
+    },
+    "Cà chua xanh": {
+        "Thực phẩm (100g)": "Cà chua xanh",
+        "Carb (g)": 5,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 23
+    },
+    "Ngọn su su": {
+        "Thực phẩm (100g)": "Ngọn su su",
+        "Carb (g)": 6,
+        "Xơ (g)": 1,
+        "Fat (g)": 0.4,
+        "Protein (g)": 0.3,
+        "Calo / Kcal": 18
+    },
+    "Quả su su": {
+        "Thực phẩm (100g)": "Quả su su",
+        "Carb (g)": 5,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 19
+    },
+    "Củ cải trắng": {
+        "Thực phẩm (100g)": "Củ cải trắng",
+        "Carb (g)": 3,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 14
+    },
+    "Su hào": {
+        "Thực phẩm (100g)": "Su hào",
+        "Carb (g)": 6,
+        "Xơ (g)": 4,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 27
+    },
+    "Dứa": {
+        "Thực phẩm (100g)": "Dứa",
+        "Carb (g)": 13,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 50
+    },
+    "Rong biển": {
+        "Thực phẩm (100g)": "Rong biển",
+        "Carb (g)": 10,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 0,
+        "Calo / Kcal": 40
+    },
+    "Bưởi chùm": {
+        "Thực phẩm (100g)": "Bưởi chùm",
+        "Carb (g)": 8,
+        "Xơ (g)": 1.3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 33
+    },
+    "Bưởi": {
+        "Thực phẩm (100g)": "Bưởi",
+        "Carb (g)": 10,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 38
+    },
+    "Xoài": {
+        "Thực phẩm (100g)": "Xoài",
+        "Carb (g)": 17,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 65
+    },
+    "Sả": {
+        "Thực phẩm (100g)": "Sả",
+        "Carb (g)": 25,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 1.5,
+        "Calo / Kcal": 99
+    },
+    "Nho": {
+        "Thực phẩm (100g)": "Nho",
+        "Carb (g)": 18,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 69
+    },
+    "Ổi": {
+        "Thực phẩm (100g)": "Ổi",
+        "Carb (g)": 14,
+        "Xơ (g)": 5,
+        "Fat (g)": 1,
+        "Protein (g)": 3,
+        "Calo / Kcal": 68
+    },
+    "Gừng": {
+        "Thực phẩm (100g)": "Gừng",
+        "Carb (g)": 18,
+        "Xơ (g)": 2,
+        "Fat (g)": 1,
+        "Protein (g)": 2,
+        "Calo / Kcal": 80
+    },
+    "Mận": {
+        "Thực phẩm (100g)": "Mận",
+        "Carb (g)": 11,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 46
+    },
+    "Mộc nhĩ": {
+        "Thực phẩm (100g)": "Mộc nhĩ",
+        "Carb (g)": 72,
+        "Xơ (g)": 7,
+        "Fat (g)": 0,
+        "Protein (g)": 11,
+        "Calo / Kcal": 312
+    },
+    "Chanh (quả)": {
+        "Thực phẩm (100g)": "Chanh (quả)",
+        "Carb (g)": 11,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 30
+    },
+    "Dưa hấu": {
+        "Thực phẩm (100g)": "Dưa hấu",
+        "Carb (g)": 8,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 30
+    },
+    "Chanh dây": {
+        "Thực phẩm (100g)": "Chanh dây",
+        "Carb (g)": 23,
+        "Xơ (g)": 10,
+        "Fat (g)": 1,
+        "Protein (g)": 2,
+        "Calo / Kcal": 97
+    },
+    "Nước chanh": {
+        "Thực phẩm (100g)": "Nước chanh",
+        "Carb (g)": 9,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 0,
+        "Calo / Kcal": 25
+    },
+    "Nước cam": {
+        "Thực phẩm (100g)": "Nước cam",
+        "Carb (g)": 10,
+        "Xơ (g)": 0,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 45
+    },
+    "Cam": {
+        "Thực phẩm (100g)": "Cam",
+        "Carb (g)": 12,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 47
+    },
+    "Bắp ngô ngọt": {
+        "Thực phẩm (100g)": "Bắp ngô ngọt",
+        "Carb (g)": 19,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 4,
+        "Calo / Kcal": 86
+    },
+    "Đu đủ": {
+        "Thực phẩm (100g)": "Đu đủ",
+        "Carb (g)": 10,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 39
+    },
+    "Chuối": {
+        "Thực phẩm (100g)": "Chuối",
+        "Carb (g)": 23,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 89
+    },
+    "Dưa vàng": {
+        "Thực phẩm (100g)": "Dưa vàng",
+        "Carb (g)": 7,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 28
+    },
+    "Chôm chôm": {
+        "Thực phẩm (100g)": "Chôm chôm",
+        "Carb (g)": 21,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 82
+    },
+    "Dưa lưới, dưa lê": {
+        "Thực phẩm (100g)": "Dưa lưới, dưa lê",
+        "Carb (g)": 9,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 36
+    },
+    "Dưa ruột vàng": {
+        "Thực phẩm (100g)": "Dưa ruột vàng",
+        "Carb (g)": 9,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 34
+    },
+    "Dâu tây": {
+        "Thực phẩm (100g)": "Dâu tây",
+        "Carb (g)": 8,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 32
+    },
+    "Trái cóc": {
+        "Thực phẩm (100g)": "Trái cóc",
+        "Carb (g)": 13,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 1,
+        "Calo / Kcal": 57
+    },
+    "Hồng xiêm": {
+        "Thực phẩm (100g)": "Hồng xiêm",
+        "Carb (g)": 20,
+        "Xơ (g)": 5,
+        "Fat (g)": 1,
+        "Protein (g)": 0,
+        "Calo / Kcal": 83
+    },
+    "Sầu riêng": {
+        "Thực phẩm (100g)": "Sầu riêng",
+        "Carb (g)": 27,
+        "Xơ (g)": 4,
+        "Fat (g)": 5,
+        "Protein (g)": 1,
+        "Calo / Kcal": 147
+    },
+    "Hạnh nhân": {
+        "Thực phẩm (100g)": "Hạnh nhân",
+        "Carb (g)": 22,
+        "Xơ (g)": 12,
+        "Fat (g)": 49,
+        "Protein (g)": 21,
+        "Calo / Kcal": 575
+    },
+    "Hạt điều": {
+        "Thực phẩm (100g)": "Hạt điều",
+        "Carb (g)": 33,
+        "Xơ (g)": 3,
+        "Fat (g)": 44,
+        "Protein (g)": 8,
+        "Calo / Kcal": 553
+    },
+    "Khoai tây": {
+        "Thực phẩm (100g)": "Khoai tây",
+        "Carb (g)": 18,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 86
+    },
+    "Kiwi": {
+        "Thực phẩm (100g)": "Kiwi",
+        "Carb (g)": 15,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 1,
+        "Calo / Kcal": 61
+    },
+    "Cùi dừa": {
+        "Thực phẩm (100g)": "Cùi dừa",
+        "Carb (g)": 15,
+        "Xơ (g)": 9,
+        "Fat (g)": 33,
+        "Protein (g)": 3,
+        "Calo / Kcal": 354
+    },
+    "Nước dừa": {
+        "Thực phẩm (100g)": "Nước dừa",
+        "Carb (g)": 4,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 19
+    },
+    "Lê": {
+        "Thực phẩm (100g)": "Lê",
+        "Carb (g)": 11,
+        "Xơ (g)": 4,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 39
+    },
+    "Táo": {
+        "Thực phẩm (100g)": "Táo",
+        "Carb (g)": 14,
+        "Xơ (g)": 2,
+        "Fat (g)": 0,
+        "Protein (g)": 0,
+        "Calo / Kcal": 52
+    },
+    "Dưa gang": {
+        "Thực phẩm (100g)": "Dưa gang",
+        "Carb (g)": 7,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 28
+    },
+    "Quả đào": {
+        "Thực phẩm (100g)": "Quả đào",
+        "Carb (g)": 10,
+        "Xơ (g)": 1,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 39
+    },
+    "Lạc": {
+        "Thực phẩm (100g)": "Lạc",
+        "Carb (g)": 16,
+        "Xơ (g)": 8,
+        "Fat (g)": 49,
+        "Protein (g)": 26,
+        "Calo / Kcal": 567
+    },
+    "Thanh long": {
+        "Thực phẩm (100g)": "Thanh long",
+        "Carb (g)": 9,
+        "Xơ (g)": 1,
+        "Fat (g)": 1.5,
+        "Protein (g)": 2,
+        "Calo / Kcal": 60
+    },
+    "Củ dền": {
+        "Thực phẩm (100g)": "Củ dền",
+        "Carb (g)": 10,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 2,
+        "Calo / Kcal": 43
+    },
+    "Củ nghệ": {
+        "Thực phẩm (100g)": "Củ nghệ",
+        "Carb (g)": 65,
+        "Xơ (g)": 21,
+        "Fat (g)": 10,
+        "Protein (g)": 8,
+        "Calo / Kcal": 354
+    },
+    "Cà rốt": {
+        "Thực phẩm (100g)": "Cà rốt",
+        "Carb (g)": 10,
+        "Xơ (g)": 3,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 41
+    },
+    "Hạt sen": {
+        "Thực phẩm (100g)": "Hạt sen",
+        "Carb (g)": 17,
+        "Xơ (g)": 0,
+        "Fat (g)": 1,
+        "Protein (g)": 4,
+        "Calo / Kcal": 89
+    },
+    "": {
+        "Thực phẩm (100g)": "",
+        "Carb (g)": "",
+        "Xơ (g)": "",
+        "Fat (g)": "",
+        "Protein (g)": "",
+        "Calo / Kcal": ""
+    },
+    "Gạo nếp": {
+        "Thực phẩm (100g)": "Gạo nếp",
+        "Carb (g)": 82,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 7,
+        "Calo / Kcal": 370
+    },
+    "Gạo nâu/gạo lức": {
+        "Thực phẩm (100g)": "Gạo nâu/gạo lức",
+        "Carb (g)": 77,
+        "Xơ (g)": 4,
+        "Fat (g)": 3,
+        "Protein (g)": 8,
+        "Calo / Kcal": 370
+    },
+    "Gạo trắng": {
+        "Thực phẩm (100g)": "Gạo trắng",
+        "Carb (g)": 79,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 6,
+        "Calo / Kcal": 360
+    },
+    "Bánh mì": {
+        "Thực phẩm (100g)": "Bánh mì",
+        "Carb (g)": 48,
+        "Xơ (g)": 4,
+        "Fat (g)": 4,
+        "Protein (g)": 1,
+        "Calo / Kcal": 266
+    },
+    "Yến mạch": {
+        "Thực phẩm (100g)": "Yến mạch",
+        "Carb (g)": 66,
+        "Xơ (g)": 11,
+        "Fat (g)": 7,
+        "Protein (g)": 17,
+        "Calo / Kcal": 389
+    },
+    "Đậu/đỗ đỏ": {
+        "Thực phẩm (100g)": "Đậu/đỗ đỏ",
+        "Carb (g)": 61,
+        "Xơ (g)": 15,
+        "Fat (g)": 1,
+        "Protein (g)": 23,
+        "Calo / Kcal": 337
+    },
+    "Đậu/đỗ đen": {
+        "Thực phẩm (100g)": "Đậu/đỗ đen",
+        "Carb (g)": 62,
+        "Xơ (g)": 15,
+        "Fat (g)": 1,
+        "Protein (g)": 22,
+        "Calo / Kcal": 341
+    },
+    "Đậu/đỗ trắng": {
+        "Thực phẩm (100g)": "Đậu/đỗ trắng",
+        "Carb (g)": 60,
+        "Xơ (g)": 15,
+        "Fat (g)": 1,
+        "Protein (g)": 23,
+        "Calo / Kcal": 333
+    },
+    "Khoai sọ": {
+        "Thực phẩm (100g)": "Khoai sọ",
+        "Carb (g)": 26,
+        "Xơ (g)": 4,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 112
+    },
+    "Đậu phụ rán": {
+        "Thực phẩm (100g)": "Đậu phụ rán",
+        "Carb (g)": 10,
+        "Xơ (g)": 4,
+        "Fat (g)": 20,
+        "Protein (g)": 17,
+        "Calo / Kcal": 271
+    },
+    "Quả hồng": {
+        "Thực phẩm (100g)": "Quả hồng",
+        "Carb (g)": 33,
+        "Xơ (g)": "",
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 127
+    },
+    "Quả lựu": {
+        "Thực phẩm (100g)": "Quả lựu",
+        "Carb (g)": 19,
+        "Xơ (g)": 4,
+        "Fat (g)": 1,
+        "Protein (g)": 2,
+        "Calo / Kcal": 83
+    }
+}
