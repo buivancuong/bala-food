@@ -1,0 +1,83 @@
+{
+
+    "Gạo nếp": {
+        "Thực phẩm (100g)": "Gạo nếp",
+        "Carb (g)": 82,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 7,
+        "Calo / Kcal": 370
+    },
+    "Gạo nâu/gạo lức": {
+        "Thực phẩm (100g)": "Gạo nâu/gạo lức",
+        "Carb (g)": 77,
+        "Xơ (g)": 4,
+        "Fat (g)": 3,
+        "Protein (g)": 8,
+        "Calo / Kcal": 370
+    },
+    "Gạo trắng": {
+        "Thực phẩm (100g)": "Gạo trắng",
+        "Carb (g)": 79,
+        "Xơ (g)": 3,
+        "Fat (g)": 1,
+        "Protein (g)": 6,
+        "Calo / Kcal": 360
+    },
+    "Bánh mì": {
+        "Thực phẩm (100g)": "Bánh mì",
+        "Carb (g)": 48,
+        "Xơ (g)": 4,
+        "Fat (g)": 4,
+        "Protein (g)": 1,
+        "Calo / Kcal": 266
+    },
+    "Yến mạch": {
+        "Thực phẩm (100g)": "Yến mạch",
+        "Carb (g)": 66,
+        "Xơ (g)": 11,
+        "Fat (g)": 7,
+        "Protein (g)": 17,
+        "Calo / Kcal": 389
+    },
+    "Đậu/đỗ đỏ": {
+        "Thực phẩm (100g)": "Đậu/đỗ đỏ",
+        "Carb (g)": 61,
+        "Xơ (g)": 15,
+        "Fat (g)": 1,
+        "Protein (g)": 23,
+        "Calo / Kcal": 337
+    },
+    "Đậu/đỗ đen": {
+        "Thực phẩm (100g)": "Đậu/đỗ đen",
+        "Carb (g)": 62,
+        "Xơ (g)": 15,
+        "Fat (g)": 1,
+        "Protein (g)": 22,
+        "Calo / Kcal": 341
+    },
+    "Đậu/đỗ trắng": {
+        "Thực phẩm (100g)": "Đậu/đỗ trắng",
+        "Carb (g)": 60,
+        "Xơ (g)": 15,
+        "Fat (g)": 1,
+        "Protein (g)": 23,
+        "Calo / Kcal": 333
+    },
+    "Khoai sọ": {
+        "Thực phẩm (100g)": "Khoai sọ",
+        "Carb (g)": 26,
+        "Xơ (g)": 4,
+        "Fat (g)": 0,
+        "Protein (g)": 1,
+        "Calo / Kcal": 112
+    },
+    "Đậu phụ rán": {
+        "Thực phẩm (100g)": "Đậu phụ rán",
+        "Carb (g)": 10,
+        "Xơ (g)": 4,
+        "Fat (g)": 20,
+        "Protein (g)": 17,
+        "Calo / Kcal": 271
+    }
+}

@@ -12,7 +12,6 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:autoText="false"
         android:text="@string/food_suggest_banner"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
@@ -57,13 +56,17 @@
         app:layout_constraintTop_toBottomOf="@+id/recyV_FoodList"
         tools:text="@string/okey" />
 
-    <fragment
-        android:id="@+id/fgm_nutritionChart"
-        android:name="com.example.balafood.ui.suggest.NutritionChart"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/chart_balance"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="24dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_reroll" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

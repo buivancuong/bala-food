@@ -8,7 +8,11 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.balafood.R;
+import com.example.balafood.model.suggest.DayNutrition;
+import com.example.balafood.model.suggest.Food;
 import com.example.balafood.ui.market.MarketActivity;
+
+import java.util.List;
 
 public class FoodSuggestActivity extends AppCompatActivity {
 
@@ -29,4 +33,5 @@ public class FoodSuggestActivity extends AppCompatActivity {
         });
 
     }
+
 }
